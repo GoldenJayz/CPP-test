@@ -1,0 +1,3 @@
+C:\Users\jmdan\source\repos\Project7\Project7\Debug\Project7.vcxprojAssemblyReference.cache
+C:\Users\jmdan\source\repos\Project7\Project7\Debug\Project7.MyForm.resources
+C:\Users\jmdan\source\repos\Project7\Project7\Debug\Project7.vcxproj.GenerateResource.cache
